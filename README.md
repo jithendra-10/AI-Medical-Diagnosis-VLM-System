@@ -93,128 +93,150 @@ An **AI-powered medical image analysis platform** that uses **Vision-Language Mo
 
 ## 🛠️ Installation Guide
 
-### 1. Clone the Repository
+## 🛠️ Installation Guide
+
+### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/jithendra-10/AI-Medical-Diagnosis-VLM-System.git
 cd AI-Medical-Diagnosis-VLM-System
-2. Backend Setup
+
+## ⚙️ Backend Setup
+
+1. 📂 Navigate to the backend directory:
+   ```bash
+   cd medical-vlm-system/backend
+📦 Install the dependencies:
+
 bash
 Copy
 Edit
-cd medical-vlm-system/backend
 npm install
+🚀 Start the backend server:
+
+bash
+Copy
+Edit
 node server.js
-3. Frontend Setup
+🛡️ Note: Backend server runs on http://localhost:5000 by default.
+
+🎨 Frontend Setup
+📂 Navigate to the frontend directory:
+
 bash
 Copy
 Edit
 cd medical-vlm-system/frontend
+📦 Install the dependencies:
+
+bash
+Copy
+Edit
 npm install
+🚀 Start the frontend development server:
+
+bash
+Copy
+Edit
 npm start
-🧪 Usage Instructions
-🔗 Visit: http://localhost:3001
+🌐 Access the App at: http://localhost:3001
 
-📤 Upload your image (JPEG/PNG/GIF | Max: 10MB)
 
-📝 Provide description + symptoms
+## 🧪 Usage Instructions
 
-🧠 Submit for VLM-based analysis
+- 🔗 Visit: [http://localhost:3001](http://localhost:3001)
+- 📤 Upload your image (JPEG/PNG/GIF | Max: 10MB)
+- 📝 Provide description + symptoms
+- 🧠 Submit for VLM-based analysis
+- 📃 View detailed diagnosis + confidence score
 
-📃 View detailed diagnosis + confidence score
+---
 
-🧬 AI Analysis Pipeline
-🔍 Image Preprocessing
-Multi-format support
+## 🧬 AI Analysis Pipeline
 
-Clarity & lighting check
+### 🔍 Image Preprocessing
+- 📂 Multi-format support  
+- 💡 Clarity & lighting check  
+- 🧼 Optimized image transformation  
+- 🧠 Smart feature extraction  
 
-Optimized image transformation
+### 🧠 VLM Diagnosis
+- 🔍 Cross-modal pattern recognition  
+- 🧾 Multi-condition matching  
+- 📉 Severity grading  
+- 📍 Location & probability mapping  
 
-Smart feature extraction
+### 📋 Output
+- 🧾 Diagnosis report  
+- 📊 Confidence score  
+- 💊 Suggested treatments  
+- 📅 Follow-up plan  
 
-🧠 VLM Diagnosis
-Cross-modal pattern recognition
+---
 
-Multi-condition matching
+## ✅ Benefits
 
-Severity grading
+### 🔬 Accurate Diagnoses
+- ✅ Consistency  
+- 🔁 Reduced bias  
+- 🔍 Higher detection reliability  
 
-Location & probability mapping
+### ⚡ Fast Turnaround
+- 🕒 Real-time analysis  
+- 📦 Batch image processing  
 
-📋 Output
-Diagnosis report
+### 🌍 Accessible Platform
+- 🖥️ Cross-platform web UI  
+- 🌐 Available 24/7  
 
-Confidence score
+---
 
-Suggested treatments
+## 🔮 Future Enhancements
 
-Follow-up plan
+### 🤖 AI Upgrades
+- ➕ Expand condition support  
+- 🎯 Boost precision  
+- 🧠 Enable adaptive learning  
 
-✅ Benefits
-🔬 Accurate Diagnoses
-Consistency
+### ➕ New Features
+- 🧑‍⚕️ Patient history integration  
+- 🔮 Outcome prediction  
+- 💊 Treatment tracking  
 
-Reduced bias
+### 🔗 Integrations
+- 🗃️ Electronic Health Records (EHR)  
+- 📱 Telemedicine platforms  
+- 📚 Research & education tools  
 
-Higher detection reliability
+---
 
-⚡ Fast Turnaround
-Real-time analysis
+## 🤝 Contributing
 
-Batch image processing
-
-🌍 Accessible Platform
-Cross-platform web UI
-
-Available 24/7
-
-🔮 Future Enhancements
-🤖 AI Upgrades
-Expand condition support
-
-Boost precision
-
-Enable adaptive learning
-
-➕ New Features
-Patient history integration
-
-Outcome prediction
-
-Treatment tracking
-
-🔗 Integrations
-Electronic Health Records (EHR)
-
-Telemedicine platforms
-
-Research & education tools
-
-🤝 Contributing
 We welcome your contributions!
 
-🍴 Fork this repo
+1. 🍴 Fork this repo  
+2. 🌿 Create your branch  
+3. 💾 Commit your changes  
+4. 🚀 Push to GitHub  
+5. 📩 Submit a Pull Request  
 
-🌿 Create your branch
+---
 
-💾 Commit your changes
+## 📄 License
 
-🚀 Push to GitHub
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
-📩 Submit a Pull Request
+---
 
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## 📬 Contact
 
-📬 Contact
-Have questions or suggestions?
-👉 Open an issue on the GitHub Repository
+Have questions or suggestions?  
+👉 Open an issue on the [GitHub Repository](https://github.com/jithendra-10/AI-Medical-Diagnosis-VLM-System/issues)
 
-🙏 Acknowledgments
-Medical imaging open datasets
+---
 
-Open-source ML frameworks
+## 🙏 Acknowledgments
 
-Collaborating healthcare professionals
-
-The global AI research community 💙
+- 🖼️ Medical imaging open datasets  
+- 🧠 Open-source ML frameworks  
+- 🩺 Collaborating healthcare professionals  
+- 🌍 The global AI research community 💙

@@ -1,134 +1,100 @@
-🧠 AI Medical Diagnosis VLM System
-An AI-powered medical image analysis platform that uses Vision-Language Models (VLMs) to deliver detailed diagnostic insights, helping healthcare professionals with accurate, real-time, and data-driven decisions.
+# 🧠 AI Medical Diagnosis VLM System
 
-🚀 Key Features
-🩺 Skin Disease Analysis
-Eczema / Dermatitis
+An **AI-powered medical image analysis platform** that uses **Vision-Language Models (VLMs)** to deliver detailed diagnostic insights, helping healthcare professionals with **accurate**, **real-time**, and **data-driven** decisions.
 
-🔍 Erythematous patch detection
+---
 
-🌵 Scaling & dryness analysis
+## 🚀 Key Features
 
-🗺️ Distribution pattern recognition
+### 🩺 Skin Disease Analysis
+- **Eczema / Dermatitis**
+  - 🔍 Erythematous patch detection  
+  - 🌵 Scaling & dryness analysis  
+  - 🗺️ Distribution pattern recognition  
+  - 📊 Severity assessment  
 
-📊 Severity assessment
+- **Psoriasis**
+  - 🧩 Plaque detection with clear margins  
+  - ❄️ Silvery-white scaling analysis  
+  - 💅 Nail changes  
+  - 💇 Scalp involvement detection  
 
-Psoriasis
+- **Acne**
+  - ⚫ Comedone detection  
+  - 🔴 Inflammatory papule analysis  
+  - 📉 Severity grading  
+  - 💡 Treatment suggestions  
 
-🧩 Plaque detection with clear margins
+- **Other Conditions**
+  - 🌹 Rosacea  
+  - 🍄 Fungal infections  
+  - ☀️ Melanoma  
+  - 🐝 Hives/Urticaria  
 
-❄️ Silvery-white scaling analysis
+---
 
-💅 Nail changes
+### 🫁 Respiratory Condition Analysis
+- **Pneumonia**
+  - 🧱 Consolidation detection  
+  - 🌀 Pattern recognition  
+  - 📈 Severity grading  
+  - 📍 Location analysis  
 
-💇 Scalp involvement detection
+- **Tuberculosis**
+  - 🕳️ Cavitary lesion detection  
+  - 🔬 Nodule identification  
+  - 🗺️ Distribution patterns  
+  - 🔄 Activity evaluation  
 
-Acne
+- **COVID-19**
+  - 🌫️ Ground-glass opacity detection  
+  - 🧩 Consolidation pattern recognition  
+  - 📊 Severity scoring  
+  - 📉 Progression tracking  
 
-⚫ Comedone detection
+- **Others**
+  - 🧬 Lung Cancer  
+  - 🌬️ Asthma  
+  - 🌪️ Pulmonary Fibrosis  
 
-🔴 Inflammatory papule analysis
+---
 
-📉 Severity grading
+### ❤️ Cardiovascular Analysis
+- **Heart Failure**
+  - ❤️ Cardiomegaly detection  
+  - 💧 Effusion recognition  
+  - 🌉 Pulmonary vascular pattern analysis  
+  - 📉 Severity grading  
 
-💡 Treatment suggestions
+- **Pulmonary Embolism**
+  - 🔎 Vascular pattern analysis  
+  - 🌑 Perfusion defect identification  
+  - 📊 Risk scoring  
 
-Other Conditions
+---
 
-🌹 Rosacea
+## 🏗️ Technical Architecture
 
-🍄 Fungal infections
+### 🎨 Frontend
+- Framework: **React.js**
+- UI: **Material-UI**
+- State Management: **React Hooks**
+- API Calls: **Axios**
+- Port: `3001`
 
-☀️ Melanoma
+### 🧠 Backend
+- Runtime: **Node.js**
+- Framework: **Express.js**
+- File Upload: **Multer**
+- AI Engine: **Custom Vision-Language Model**
+- Port: `5000`
 
-🐝 Hives/Urticaria
+---
 
-🫁 Respiratory Condition Analysis
-Pneumonia
+## 🛠️ Installation Guide
 
-🧱 Consolidation detection
-
-🌀 Pattern recognition
-
-📈 Severity grading
-
-📍 Location analysis
-
-Tuberculosis
-
-🕳️ Cavitary lesion detection
-
-🔬 Nodule identification
-
-🗺️ Distribution patterns
-
-🔄 Activity evaluation
-
-COVID-19
-
-🌫️ Ground-glass opacity detection
-
-🧩 Consolidation pattern recognition
-
-📊 Severity scoring
-
-📉 Progression tracking
-
-Others
-
-🧬 Lung Cancer
-
-🌬️ Asthma
-
-🌪️ Pulmonary Fibrosis
-
-❤️ Cardiovascular Analysis
-Heart Failure
-
-❤️ Cardiomegaly detection
-
-💧 Effusion recognition
-
-🌉 Pulmonary vascular pattern analysis
-
-📉 Severity grading
-
-Pulmonary Embolism
-
-🔎 Vascular pattern analysis
-
-🌑 Perfusion defect identification
-
-📊 Risk scoring
-
-🏗️ Technical Architecture
-🎨 Frontend
-Framework: React.js
-
-UI: Material-UI
-
-State Management: React Hooks
-
-API Calls: Axios
-
-Port: 3001
-
-🧠 Backend
-Runtime: Node.js
-
-Framework: Express.js
-
-File Upload: Multer
-
-AI Engine: Custom Vision-Language Model
-
-Port: 5000
-
-🛠️ Installation Guide
-1. Clone the Repository
-bash
-Copy
-Edit
+### 1. Clone the Repository
+```bash
 git clone https://github.com/jithendra-10/AI-Medical-Diagnosis-VLM-System.git
 cd AI-Medical-Diagnosis-VLM-System
 2. Backend Setup
@@ -244,4 +210,3 @@ Open-source ML frameworks
 Collaborating healthcare professionals
 
 The global AI research community 💙
-

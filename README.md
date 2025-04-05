@@ -152,13 +152,21 @@ Follow-up plan
 
 ✅ Benefits
 🔬 Accurate Diagnoses
-Consistency, reduced bias, and higher detection reliability
+Consistency
+
+Reduced bias
+
+Higher detection reliability
 
 ⚡ Fast Turnaround
-Real-time analysis and batch image processing
+Real-time analysis
+
+Batch image processing
 
 🌍 Accessible Platform
-Cross-platform web UI available 24/7
+Cross-platform web UI
+
+Available 24/7
 
 🔮 Future Enhancements
 🤖 AI Upgrades

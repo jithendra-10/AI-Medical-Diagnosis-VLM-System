@@ -216,3 +216,23 @@ Have questions or suggestions?
 - 🧠 Open-source ML frameworks  
 - 👨‍⚕️ Collaborating healthcare professionals  
 - 🌐 The global AI research community 💙
+
+  # 📊 Chat/Interaction Metadata - RESULT(Screenshot Analysis)
+  ## 📌 Screenshot 1 - ![image](https://github.com/user-attachments/assets/01bbf1f9-0b5c-4fa7-8256-317a509c46c4)
+  - **Contents:**
+  - after clicking start analysis ,it takes you to login page
+  ## 📌 Screenshot 2 - ![Screenshot 2025-04-05 154312](https://github.com/user-attachments/assets/598e821c-96cd-408a-86e9-51acfee0e9d3)
+  - **Type:** login
+  ## 📌 Screenshot 3 - ![Screenshot 2025-04-05 154405](https://github.com/user-attachments/assets/a4b86b31-0194-470b-999a-f50e4e35a60e)
+  ![Screenshot 2025-04-05 154456](https://github.com/user-attachments/assets/7c2a3701-61db-4e9a-9df2-9d77a13c4409)
+  ## 📌 Screenshot 4 - ![Screenshot 2025-04-05 154537](https://github.com/user-attachments/assets/f84510d0-0149-4795-a49b-193b20f31d58)
+    - **Type:** uploading page
+  ## 📌 Screenshot 5 - ![Screenshot 2025-04-05 154917](https://github.com/user-attachments/assets/ee6cda83-2f49-4979-ac44-fb36a93fae93)
+  ![Screenshot 2025-04-05 154953](https://github.com/user-attachments/assets/4c95acef-a865-4b0c-87d4-d2e84dcc8541)
+
+- **Type:** uploaded file and its diagnosis
+
+
+
+
+

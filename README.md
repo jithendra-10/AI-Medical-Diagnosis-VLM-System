@@ -8,68 +8,68 @@ An **AI-powered medical image analysis platform** that uses **Vision-Language Mo
 
 ### 🩺 Skin Disease Analysis
 - **Eczema / Dermatitis**
-  - 🔍 Erythematous patch detection  
-  - 🌵 Scaling & dryness analysis  
-  - 🗺️ Distribution pattern recognition  
-  - 📊 Severity assessment  
+  -  Erythematous patch detection  
+  -  Scaling & dryness analysis  
+  - 🗺 Distribution pattern recognition  
+  -  Severity assessment  
 
 - **Psoriasis**
-  - 🧩 Plaque detection with clear margins  
-  - ❄️ Silvery-white scaling analysis  
-  - 💅 Nail changes  
-  - 💇 Scalp involvement detection  
+  -  Plaque detection with clear margins  
+  - ❄ Silvery-white scaling analysis  
+  -  Nail changes  
+  -  Scalp involvement detection  
 
 - **Acne**
-  - ⚫ Comedone detection  
-  - 🔴 Inflammatory papule analysis  
-  - 📉 Severity grading  
-  - 💡 Treatment suggestions  
+  -  Comedone detection  
+  -  Inflammatory papule analysis  
+  -  Severity grading  
+  -  Treatment suggestions  
 
 - **Other Conditions**
-  - 🌹 Rosacea  
-  - 🍄 Fungal infections  
-  - ☀️ Melanoma  
-  - 🐝 Hives/Urticaria  
+  -  Rosacea  
+  -  Fungal infections  
+  - ☀ Melanoma  
+  -  Hives/Urticaria  
 
 ---
 
 ### 🫁 Respiratory Condition Analysis
 - **Pneumonia**
-  - 🧱 Consolidation detection  
-  - 🌀 Pattern recognition  
-  - 📈 Severity grading  
-  - 📍 Location analysis  
+  -  Consolidation detection  
+  -  Pattern recognition  
+  -  Severity grading  
+  -  Location analysis  
 
 - **Tuberculosis**
-  - 🕳️ Cavitary lesion detection  
-  - 🔬 Nodule identification  
-  - 🗺️ Distribution patterns  
-  - 🔄 Activity evaluation  
+  -  Cavitary lesion detection  
+  -  Nodule identification  
+  -  Distribution patterns  
+  -  Activity evaluation  
 
 - **COVID-19**
-  - 🌫️ Ground-glass opacity detection  
-  - 🧩 Consolidation pattern recognition  
-  - 📊 Severity scoring  
-  - 📉 Progression tracking  
+  - 🌫 Ground-glass opacity detection  
+  -  Consolidation pattern recognition  
+  -  Severity scoring  
+  -  Progression tracking  
 
 - **Others**
-  - 🧬 Lung Cancer  
-  - 🌬️ Asthma  
-  - 🌪️ Pulmonary Fibrosis  
+  -  Lung Cancer  
+  -  Asthma  
+  -  Pulmonary Fibrosis  
 
 ---
 
-### ❤️ Cardiovascular Analysis
+###  Cardiovascular Analysis
 - **Heart Failure**
-  - ❤️ Cardiomegaly detection  
-  - 💧 Effusion recognition  
-  - 🌉 Pulmonary vascular pattern analysis  
-  - 📉 Severity grading  
+  -  Cardiomegaly detection  
+  - Effusion recognition  
+  -  Pulmonary vascular pattern analysis  
+  -  Severity grading  
 
 - **Pulmonary Embolism**
-  - 🔎 Vascular pattern analysis  
-  - 🌑 Perfusion defect identification  
-  - 📊 Risk scoring  
+  -  Vascular pattern analysis  
+  -  Perfusion defect identification  
+  -  Risk scoring  
 
 ---
 
@@ -119,68 +119,68 @@ npm start
 
 🔗 Visit: [http://localhost:3001](http://localhost:3001)
 
-📤 **Upload** your image (JPEG/PNG/GIF | Max: 10MB)  
-📝 **Provide** description + symptoms  
-🧠 **Submit** for VLM-based analysis  
-📃 **View** detailed diagnosis + confidence score  
+ **Upload** your image (JPEG/PNG/GIF | Max: 10MB)  
+ **Provide** description + symptoms  
+ **Submit** for VLM-based analysis  
+ **View** detailed diagnosis + confidence score  
 
 ---
 
 ## 🧬 AI Analysis Pipeline
 
 ### 🔍 Image Preprocessing
-- ✅ Multi-format support  
-- 💡 Clarity & lighting check  
-- 🧪 Optimized image transformation  
-- 🔍 Smart feature extraction  
+-  Multi-format support  
+-  Clarity & lighting check  
+-  Optimized image transformation  
+-  Smart feature extraction  
 
 ### 🧠 VLM Diagnosis
-- 🔗 Cross-modal pattern recognition  
-- 🔍 Multi-condition matching  
-- 📉 Severity grading  
-- 🗺️ Location & probability mapping  
+-  Cross-modal pattern recognition  
+-  Multi-condition matching  
+-  Severity grading  
+-  Location & probability mapping  
 
 ### 📋 Output
-- 📑 Diagnosis report  
-- 📊 Confidence score  
-- 💊 Suggested treatments  
-- 📆 Follow-up plan  
+-  Diagnosis report  
+-  Confidence score  
+-  Suggested treatments  
+-  Follow-up plan  
 
 ---
 
 ## ✅ Benefits
 
 ### 🔬 Accurate Diagnoses
-- ✅ Consistency  
-- 🧠 Reduced bias  
-- 📈 Higher detection reliability  
+-  Consistency  
+-  Reduced bias  
+-  Higher detection reliability  
 
 ### ⚡ Fast Turnaround
-- 🕒 Real-time analysis  
-- 📁 Batch image processing  
+-  Real-time analysis  
+-  Batch image processing  
 
 ### 🌍 Accessible Platform
-- 💻 Cross-platform web UI  
-- 🕐 Available 24/7  
+-  Cross-platform web UI  
+-  Available 24/7  
 
 ---
 
 ## 🔮 Future Enhancements
 
 ### 🤖 AI Upgrades
-- ➕ Expand condition support  
-- 🎯 Boost precision  
-- 🔄 Enable adaptive learning  
+-  Expand condition support  
+-  Boost precision  
+-  Enable adaptive learning  
 
 ### ➕ New Features
-- 🩺 Patient history integration  
-- 📊 Outcome prediction  
-- 🔁 Treatment tracking  
+-  Patient history integration  
+-  Outcome prediction  
+-  Treatment tracking  
 
 ### 🔗 Integrations
-- 🧾 Electronic Health Records (EHR)  
-- 💻 Telemedicine platforms  
-- 📚 Research & education tools  
+-  Electronic Health Records (EHR)  
+-  Telemedicine platforms  
+-  Research & education tools  
 
 ---
 
@@ -188,11 +188,11 @@ npm start
 
 We welcome your contributions!
 
-1. 🍴 Fork this repo  
-2. 🌿 Create your branch  
-3. 💾 Commit your changes  
-4. 🚀 Push to GitHub  
-5. 📩 Submit a Pull Request  
+1.  Fork this repo  
+2.  Create your branch  
+3.  Commit your changes  
+4.  Push to GitHub  
+5.  Submit a Pull Request  
 
 ---
 
@@ -212,12 +212,12 @@ Have questions or suggestions?
 
 ## 🙏 Acknowledgments
 
-- 🩻 Medical imaging open datasets  
-- 🧠 Open-source ML frameworks  
-- 👨‍⚕️ Collaborating healthcare professionals  
-- 🌐 The global AI research community 💙
+-  Medical imaging open datasets  
+-  Open-source ML frameworks  
+-  Collaborating healthcare professionals  
+-  The global AI research community 💙
 
-  # 📊 Chat/Interaction Metadata - RESULT(Screenshot Analysis)
+  #  Chat/Interaction Metadata - RESULT(Screenshot Analysis)
   ## 📌 Screenshot 1 - ![image](https://github.com/user-attachments/assets/01bbf1f9-0b5c-4fa7-8256-317a509c46c4)
   - **Contents:**
   - after clicking start analysis ,it takes you to login page
